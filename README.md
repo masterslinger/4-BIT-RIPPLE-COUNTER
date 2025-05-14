@@ -39,9 +39,9 @@ Program for 4 Bit Ripple Counter and verify its truth table in quartus using Ver
 
 **PROGRAM**
 
-Developed By : Pugazhenthi S
+Developed By : Syed Abu Hanifa. L
 
-Register Number : 212224240120
+Register Number : 212224040346
 
 ![image](https://github.com/Abishai95141/4-BIT-RIPPLE-COUNTER/assets/139335314/49c8a55a-5fd0-4834-9a4b-04ceccdc28e7)
 
